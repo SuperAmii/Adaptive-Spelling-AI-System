@@ -19,3 +19,5 @@ How can an adaptive spelling AI system be developed to generate Dutch spelling e
 Final Dataset (A-L) and Final Dataset (L-Z). The dataset has been split up into two files, as it was too large to upload onto GitHub. When utilizing the dataset for the adaptive spelling ai system, both files should be merged together named: final_merge.csv.
 
 4. The file adaptive_spelling_ai_system.py contains the developed adaptive spelling AI system. By employing a refined Elo rating system augmented by additional parameters, the Needleman-Wunsch alignment algorithm and a sophisticated mechanism for detecting and accounting for user input errors, a personalised adaptive spelling AI system is developed.
+
+NOTE: Distribution and reuse are not allowed without the author's permission.
