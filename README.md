@@ -1,5 +1,4 @@
 # An Adaptive Spelling AI System 
-# For Personalized Dutch Spelling Education
 
 Author: Amitai Kamp 
 
