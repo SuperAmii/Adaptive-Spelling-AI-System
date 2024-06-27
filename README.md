@@ -1,12 +1,8 @@
-Author: Amitai Kamp
-
-Date: May/June 2024
-
-University of Amsterdam
-
-Study: Bachelor Kunstmatige Intelligentie (KI)
-
-Course: Afstudeerproject Bachelor KI
+#Author: Amitai Kamp
+#Date: May/June 2024
+#University of Amsterdam
+#Study: Bachelor Kunstmatige Intelligentie (KI)
+#Course: Afstudeerproject Bachelor KI
 
 This repository contains the code developed for my bachelor AI thesis. The thesis written in May/June 2024 answered the following research question: 
 How can an adaptive spelling AI system be developed to generate Dutch spelling exercises tailored to the learning gain of primary school students?
